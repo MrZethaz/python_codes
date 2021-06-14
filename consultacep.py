@@ -1,8 +1,11 @@
+#created by Mr. Zetha
+#https://github.com/MrZethaz/
+#obrigado pela preferencia
+#verificado pela pep8
+
 from pycep_correios import get_address_from_cep, WebService, exceptions
 from os import system
 
-# {'bairro': '', 'cep': '46165-000', 'cidade': 'Dom Basílio',
-# 'logradouro': '', 'uf': 'BA', 'complemento': ''}
 
 print("######################")
 print("#Consulta CEP correio#")
